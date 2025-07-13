@@ -6,7 +6,7 @@ from typing import Dict, List, Any
 import google.generativeai as genai
 
 # Set your direct API key here
-genai.configure(api_key="AIzaSyDB9Qtf3qr238R4ruHbkcXl9OTnKqnoRx8")
+genai.configure(api_key="add-your-key-here")
 
 
 class QueryProcessor:
