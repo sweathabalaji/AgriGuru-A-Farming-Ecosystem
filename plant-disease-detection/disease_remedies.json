@@ -1,0 +1,164 @@
+{
+    "Corn_(maize)___Common_rust_": {
+        "description": "Common rust of corn is caused by the fungus Puccinia sorghi. It is one of the most frequently occurring foliar diseases of corn, capable of causing significant yield losses in susceptible hybrids when conditions are favorable for disease development.",
+        "causes": [
+            "Infection by Puccinia sorghi fungus",
+            "Cool temperatures (60-77°F)",
+            "High humidity (>95%) or extended dew periods",
+            "Frequent rainfall or overhead irrigation",
+            "Wind-blown spores from infected plants",
+            "Presence of alternate host plants",
+            "Susceptible corn hybrids"
+        ],
+        "symptoms": [
+            "Small, circular to elongated cinnamon-brown pustules on both leaf surfaces",
+            "Pustules turn dark brown to black as they mature",
+            "Pustules can appear on stalks and husks in severe cases",
+            "Leaves may turn yellow and die in severe infections",
+            "Pustules rupture leaf surface, releasing powdery rust spores",
+            "Initial symptoms appear as flecks, then develop into pustules",
+            "Pustules are scattered across leaf surface rather than clustered"
+        ],
+        "remedies": [
+            "Apply appropriate fungicides at first sign of disease",
+            "Use systemic fungicides for better control",
+            "Time fungicide applications based on disease forecasts",
+            "Remove alternate host plants from field edges",
+            "Improve air circulation in the field",
+            "Monitor fields regularly during growing season",
+            "Consider fungicide application at tasseling stage if disease pressure is high"
+        ],
+        "maintenance": [
+            "Plant resistant hybrids when available",
+            "Avoid highly susceptible varieties in high-risk areas",
+            "Scout fields regularly, especially in humid conditions",
+            "Maintain balanced soil fertility",
+            "Avoid excessive nitrogen fertilization",
+            "Practice good field hygiene",
+            "Rotate crops with non-host plants",
+            "Time planting to avoid peak disease periods"
+        ],
+        "severity": "Moderate to High"
+    },
+    "Tomato___Late_blight": {
+        "description": "Late blight is a devastating disease caused by the oomycete pathogen Phytophthora infestans. This is the same disease that caused the Irish Potato Famine and can destroy entire crops within days if conditions are favorable.",
+        "causes": [
+            "Infection by Phytophthora infestans pathogen",
+            "Cool temperatures (60-70°F)",
+            "High humidity (>90%) or wet conditions",
+            "Poor air circulation",
+            "Infected seed potatoes or tomato transplants",
+            "Overwatering or frequent rain"
+        ],
+        "symptoms": [
+            "Large, dark brown patches on leaves with pale green borders",
+            "White, fuzzy growth on leaf undersides in humid conditions",
+            "Dark brown lesions on stems and petioles",
+            "Firm, brown spots on fruit that may become mushy",
+            "Rapid wilting and death of foliage",
+            "Disease spreads quickly throughout the plant",
+            "Can kill plants within days under favorable conditions"
+        ],
+        "remedies": [
+            "Remove and destroy infected plants immediately - do not compost",
+            "Apply copper-based fungicides preventatively",
+            "Use fungicides containing chlorothalonil, mancozeb, or copper when disease is present",
+            "Avoid overhead watering and water early in the day",
+            "Increase plant spacing to improve air circulation",
+            "Remove volunteer tomato and potato plants",
+            "Clean and sanitize garden tools and stakes"
+        ],
+        "maintenance": [
+            "Plant resistant varieties when available",
+            "Ensure excellent soil drainage",
+            "Monitor weather conditions and disease forecasts",
+            "Practice crop rotation (3-4 years for tomatoes/potatoes)",
+            "Use certified disease-free seeds and transplants",
+            "Keep foliage dry and improve air circulation",
+            "Remove plant debris and weeds promptly",
+            "Avoid working with plants when wet"
+        ],
+        "severity": "Very High"
+    },
+    "Tomato___Early_blight": {
+        "description": "Early blight is a common fungal disease caused by Alternaria solani that affects tomatoes and potatoes. While not as rapidly destructive as late blight, it can significantly reduce yields and fruit quality.",
+        "causes": [
+            "Fungal infection by Alternaria solani",
+            "Warm temperatures (75-85°F)",
+            "High humidity or leaf wetness",
+            "Poor soil fertility",
+            "Plant stress or injury",
+            "Overcrowded plants",
+            "Infected plant debris from previous season"
+        ],
+        "symptoms": [
+            "Dark brown spots with concentric rings (target-like pattern)",
+            "Yellowing of leaves around the spots",
+            "Spots begin on older, lower leaves first",
+            "Leaf spots may merge and cause leaves to die",
+            "Stem lesions are dark, sunken and may have rings",
+            "Fruit can develop leathery, sunken spots near stem",
+            "Gradual defoliation from bottom up"
+        ],
+        "remedies": [
+            "Remove infected leaves immediately",
+            "Apply fungicides containing chlorothalonil or copper",
+            "Rotate sprays between different fungicide types",
+            "Mulch soil to prevent spore splash",
+            "Prune lower leaves to improve air circulation",
+            "Support plants with stakes or cages",
+            "Maintain balanced nutrition with adequate calcium"
+        ],
+        "maintenance": [
+            "Plant resistant varieties when possible",
+            "Practice crop rotation (3-4 years minimum)",
+            "Space plants properly for good airflow",
+            "Water at the base of plants, avoid wetting leaves",
+            "Remove plant debris after harvest",
+            "Maintain soil fertility with regular testing",
+            "Apply preventive fungicides during humid weather",
+            "Monitor plants regularly for early symptoms"
+        ],
+        "severity": "Moderate to High"
+    },
+    "Tomato___Leaf_Mold": {
+        "description": "Leaf mold, caused by the fungus Passalora fulva (previously called Fulvia fulva), is particularly problematic in greenhouse tomatoes and outdoor tomatoes in humid climates.",
+        "causes": [
+            "Infection by Passalora fulva fungus",
+            "High humidity (85% or higher)",
+            "Poor air circulation",
+            "Overcrowded plants",
+            "Temperature fluctuations causing condensation",
+            "Extended periods of leaf wetness"
+        ],
+        "symptoms": [
+            "Pale green to yellow spots on upper leaf surfaces",
+            "Olive-green to brown velvety mold on leaf undersides",
+            "Leaves become yellow, then brown and wither",
+            "Infection typically starts on older leaves",
+            "Reduced photosynthesis and yield",
+            "Fruit rarely affected directly but may be smaller",
+            "Can cause significant defoliation in severe cases"
+        ],
+        "remedies": [
+            "Remove and destroy infected leaves",
+            "Apply approved fungicides at first sign of disease",
+            "Increase air circulation with fans",
+            "Reduce humidity through ventilation",
+            "Space plants properly",
+            "Avoid overhead irrigation",
+            "Prune to improve air flow"
+        ],
+        "maintenance": [
+            "Use resistant varieties in humid areas",
+            "Maintain greenhouse ventilation",
+            "Heat and vent to reduce humidity",
+            "Keep leaf surfaces dry",
+            "Remove crop debris after harvest",
+            "Sterilize greenhouse between crops",
+            "Monitor humidity levels",
+            "Regular inspection of plants"
+        ],
+        "severity": "Moderate"
+    }
+} 
