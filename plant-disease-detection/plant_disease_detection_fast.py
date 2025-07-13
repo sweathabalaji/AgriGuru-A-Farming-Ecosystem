@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 # Ultra-Fast Plant Disease Detection using ResNet50 and TensorFlow with Explainable AI
 # Optimized for maximum training speed while maintaining accuracy
 
