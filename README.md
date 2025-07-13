@@ -41,7 +41,7 @@
 ---
 
 ## DEMO VIDEO
-🎥 **[Watch Demo Video](https://github.com/sweathabalaji/AgriGuru-A-Farming-Ecosystem/blob/56925b68b706b32b453a18785b6d6ed574a4b020/demovid.mp4)**  
+https://github.com/user-attachments/assets/d107dbce-0c84-4d43-b4cd-1b24d4c63a0d
 
 ## 🌿 Modules
 
