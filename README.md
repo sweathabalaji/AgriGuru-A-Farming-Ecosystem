@@ -33,7 +33,7 @@
 | 🎤 Voice       | Web Speech API                         | Tamil/English speech-to-text                         |
 | 🔊 TTS (Planned)| TBD                                   | Text-to-speech (future update)                      |
 | 🌐 Backend     | FastAPI (Python)                       | API and routing logic                                |
-| 🤖 AI Model    | Gemma 3B via Ollama                    | Local LLM for agri chat                              |
+| 🤖 AI Model    | Gemma 3B via Ollama,Gemini,llama       | Local LLM for agri chat,Crop planner,disease analysis         |
 | 🧠 ML/AI       | TensorFlow, Keras, Scikit-learn        | Disease detection & crop recommendation              |
 | 📡 APIs        | Weatherbit, RSS Feeds                  | Weather alerts, Govt schemes                         |
 | 🔐 Security    | CORS, .env configs                     | Secure API communication                             |
