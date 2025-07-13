@@ -40,6 +40,9 @@
 
 ---
 
+## DEMO VIDEO
+![demovideo][https://github.com/sweathabalaji/AgriGuru-A-Farming-Ecosystem/blob/56925b68b706b32b453a18785b6d6ed574a4b020/demovid.mp4]
+
 ## 🌿 Modules
 
 ### 1️⃣ Plant Disease Detection
