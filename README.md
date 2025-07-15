@@ -9,7 +9,7 @@
 - ✅ **Plant Disease Detection** (with Explainable AI)
 - ✅ **Crop Planning Assistant**
 - ✅ **Weather-Adaptive Alerts**
-- ✅ **Multilingual Voice/Chatbot** (Tamil & English)
+- ✅ **Multilingual Voice/Chatbot** (Tamil & English).
 - ✅ **Government Schemes Notifier**
 - ✅ **Offline-Capable Local LLM (Gemma via Ollama)**
 
